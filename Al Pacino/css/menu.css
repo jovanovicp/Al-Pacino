@@ -1,0 +1,132 @@
+#wrapper{
+	height:1960px;
+	background-color:;
+}
+#main{
+	height:1210px;
+	background-color:;
+}
+#content{
+	height:1160px;
+	width:950px;
+	background-color:;
+	margin:0px auto;
+	margin-top:25px;
+	border:2px solid black;
+}
+#content h1{
+	text-align:center;
+	font-size:40px;
+	color:#bf555b;
+	margin-bottom:40px;
+	font-family: 'Lobster', cursive;
+}
+h2{
+	font-size:36px;
+	color:#bf555b;
+	margin-bottom:15px;
+	margin-left:135px;
+	font-family: 'Lobster', cursive;
+}
+.pica{
+	width:800px;
+	height:130px;
+	background-color:;
+	margin:0px auto;
+	margin-bottom:10px;
+}
+.jedan{
+	height:190px;
+}
+.sok{
+	height:190px;
+	margin-top:70px;
+}
+
+.image{
+	width:130px;
+	height:130px;
+	background-color:;
+	float:left;
+}
+.prva{
+	background-image: url('../img/margarita.png');
+}
+.druga{
+	background-image: url('../img/funghi.png');
+}
+.treca{
+	background-image: url('../img/vesuvio.png');
+}
+.cetvrta{
+	background-image: url('../img/capricciosa.png');
+}
+.peta{
+	background-image: url('../img/bianco.png');
+}
+.sesta{
+	background-image: url('../img/cocacola.png');
+}
+.txt{
+	width:520px;
+	height:130px;
+	background-color:;
+	margin-right:60px;
+	float:right;
+}
+.naslov{
+	float:left;
+	background-color:;
+	width:250px;
+	height:100%;
+}
+.naslov2{
+	float:right;
+	background-color:;
+	width:150px;
+	height:100%;
+}
+.txt h3{
+	font-size:28px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	margin-bottom:10px;
+	float:left;
+}
+.txt p{
+	font-size:18px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	margin-bottom:10px;
+	margin-left:5px;
+	float:left;
+}
+.desno{
+	font-size:20px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	margin-bottom:13px;
+	margin-top:5px;
+	float:right;
+}
+.donji{
+	font-size:18px;
+	color:#666666;
+	font-family: 'Crete Round', serif;
+	margin-left:25px;
+}
+.poslednji{
+	margin-top:30px;
+}
+#content small{
+	font-size:18px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	margin-left:380px;
+}
+.cleaner{
+	clear:both;
+}
+#footer{
+	margin-top:0px;
+}
