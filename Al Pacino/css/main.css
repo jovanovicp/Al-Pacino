@@ -1,0 +1,218 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body{
+	background-image: url('../img/pozadina.jpg');
+	height:100%; 
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	margin:0px auto;
+}
+hr{
+	margin:0px auto;
+	margin-top:25px;
+	width:80%;
+}
+#wrapper{
+	width:1000px;
+	height:1835px;
+	background-color:#f2f2f2;
+	margin:0px auto;
+	box-shadow:0px 5px 10px 25px rgba(0, 0, 0, 0.2), 0px 5px 10px 10px rgba(0, 0, 0, 0.3);
+}
+#header{
+	width:100%;
+	height:600px;
+	background-color:white;
+}
+#top-header{
+	width:1000px;
+	height:120px;
+	background-color:white;
+	background-image: url('../img/pizzapozadina.jpg');
+	background-position: right;
+	background-size: fit;
+	background-repeat: no-repeat;
+}
+#logo{
+	width:210px;
+	height:120px;
+	float:left;
+	margin:0px auto;
+	background-color:black;
+	background-size:cover;
+	margin-left:16px;
+}
+.meni{
+	float:right;
+	width:450px;
+	height:50px;
+	margin-top:38px;
+	margin-right:5px;
+}
+.meni ul{
+	float:left;
+	list-style-type: none;
+	padding:15px;
+	width:450px;
+}
+.meni ul li{
+	float:left;
+	margin-right:30px;
+}
+.meni ul li a{
+	text-decoration: none;
+	font-size:16px;
+	font-family: 'Noto Sans', sans-serif;
+	color:#bf555b;
+}
+.meni ul li:hover a{
+	color:black;
+}
+.meni .active a{
+	color:black;
+}
+.cleaner{
+	clear:both;
+}
+#slajder{
+	width:1000px;
+	height:480px;
+	margin:0px auto;
+}
+#main{
+	width:1000px;
+	height:1060px;
+	background-color:;
+	float:left;
+}
+.content{
+	width:800px;
+	height:300px;
+	background-color:;
+	margin:0px auto;
+	margin-top:25px;
+}
+.slika{
+	width:250px;
+	height:250px;
+	background-color:;
+	margin-top:25px;
+	float:left;
+	border-radius:8px;
+	background-image: url('../img/pizzasredina.jpg');
+}
+.content .text2{
+	width:500px;
+	height:250px;
+	background-color:;
+	float:right;
+	margin-top:25px;
+	box-shadow:0px 3px 0px 8px rgba(0, 0, 0, 0.2), 0px 2px 4px 4px rgba(0, 0, 0, 0.35);
+}
+.cleaner{
+	clear:both;
+}
+.content .druga{
+	float:right;
+	background-image: url('../img/lokal.jpg');
+}
+.content .drugi{
+	float:left;
+}
+.content .treca{
+	background-image: url('../img/galerija.jpg');
+}
+.content h1{
+	text-align:center;
+	font-size:40px;
+	color:#bf555b;
+	margin-bottom:20px;
+	font-family: 'Lobster', cursive;
+}
+.content p{
+	font-size:20px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.content span{
+	margin-left:165px;
+}
+.content a{
+	text-decoration:none;
+	color:#bf555b;
+	font-size:20px;
+	font-family: 'Crete Round', serif;
+}
+.content a:hover{
+	color:black;
+}
+#footer{
+	width:1000px;
+	height:150px;
+	background-color:black;
+	margin-top:25px;
+	float:left;
+	background-image: url('../img/pizzapozadina6.jpg');
+	background-size:cover;
+}
+.dole {
+	float:left;
+	margin-top:20px;
+	margin-left:235px;
+	width:600px;
+}
+.dole ul{
+	width:600px;
+	background-color:;
+}
+.dole ul li{
+	margin-right:60px;
+}
+.dole ul li a{
+	color:#f2f2f2;
+	font-size:14px;
+}
+.dole ul li:hover a{
+	color:white;
+}
+.dole .active a{
+	color:#f2f2f2;
+}
+#copyright{
+	background-color:;
+	width:530px;
+	height:50px;
+	float:left;
+	margin-left:100px;
+	text-align:left;
+	margin-top:28px;
+}
+#copyright small{
+	color:#f2f2f2;
+	font-family: 'Verdana';
+	font-size:11px;
+}
+#copyright a{
+	text-decoration:none;
+	color:#f2f2f2;
+}
+#social{
+	float:right;
+	width:200px;
+	height:50px;
+	background-color:;
+	margin-top:18px;
+	margin-right:17px;
+}
+.fab{
+	color:#f2f2f2;
+	font-size:30px;
+	margin-left:8px;
+}

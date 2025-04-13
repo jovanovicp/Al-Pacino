@@ -1,0 +1,53 @@
+#wrapper{
+	height:1350px;
+}
+#main{
+	height:600px;
+	background-color:;
+}
+#content{
+	width:850px;
+	height:550px;
+	background-color:;
+	margin:0px auto;
+	margin-top:25px;
+}
+#content .slika{
+	margin-top:80px;
+	margin-left:15px;
+	float:right;
+}
+#content .druga{
+	background-image: url('../img/lokal.jpg');
+}
+#content h1{
+	text-align:center;
+	font-size:40px;
+	color:#bf555b;
+	font-family: 'Lobster', cursive;
+	margin-bottom:25px;
+	margin-left:180px;
+}
+#content h2{
+	font-size:20px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	text-align:justify;
+}
+#content p{
+	font-size:18px;
+	color:black;
+	font-family: 'Crete Round', serif;
+	text-align:justify;
+}
+#content ol{
+	margin-left:16px;
+}
+#content li{
+	font-size:18px;
+	color:black;
+	font-family: 'Crete Round', serif;
+}
+#footer{
+	margin-top:0px;
+}
